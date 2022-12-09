@@ -1,0 +1,13 @@
+name = "Creative Create Modpack"
+author = "Akarys"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85217301400dc4df0d7832d6a86035e7405297c9de0ac4e5ee13dff16c851b70"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.23"
