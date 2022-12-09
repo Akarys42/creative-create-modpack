@@ -9,6 +9,11 @@ file = "README.md"
 hash = "c658a34b00db0bd13c4c6f70bd56505d794635b63a4951ae03f9782db8f60017"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
@@ -51,11 +56,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
