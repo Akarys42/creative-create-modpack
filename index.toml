@@ -54,11 +54,6 @@ hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
 metafile = true
