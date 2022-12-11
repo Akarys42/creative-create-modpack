@@ -1,7 +1,7 @@
 name = "decorative-blocks"
-filename = "Decorative Blocks-fabric-1.18.2-2.1.2.jar"
+filename = "Decorative Blocks-fabric-1.19.2-3.0.0.jar"
 
 [download]
-url = "https://github.com/Akarys42/creative-create-modpack/raw/main/vendored-mods/Decorative%20Blocks-fabric-1.18.2-2.1.2.jar"
+url = "https://github.com/Akarys42/creative-create-modpack/raw/main/vendored-mods/Decorative%20Blocks-fabric-1.19.2-3.0.0.jar"
 hash-format = "sha1"
-hash = "a8b388a8aebd5879c7736957f0f78b3370838552"
+hash = "a13f2ba21d779f9b29287a3c9f51c06c8ed0d623"

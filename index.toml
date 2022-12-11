@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "253fac98289c2a49f01a128d55e385b150cb6137ea68ce7341b083443e8d84ef"
+hash = "55c17aa6856ccaf7ddec875d777a4703ac4cd4dfcd3ccd61b943c62221840359"
 metafile = true
 
 [[files]]
@@ -182,3 +182,7 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
+
+[[files]]
+file = "vendored-mods/Decorative Blocks-fabric-1.19.2-3.0.0.jar"
+hash = "6d07736c75ae65a5a363b8dfd0b788bc8c95fe968fd3af3ce003c18756f84f58"
