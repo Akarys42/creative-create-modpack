@@ -19,6 +19,11 @@ hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
@@ -39,8 +44,18 @@ hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "d9c7722a164bebefdd8bb8945c37f6f33db30fa68506e4dea6a8f3fdaa2a0b97"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
@@ -51,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -71,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
@@ -146,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
